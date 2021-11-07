@@ -1,5 +1,5 @@
 {
-  "name": "papeleria_san_vicente",
+  "name": "mercadoscampesinos",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -47,5 +47,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "App de mercados campesinos",
+  "main": "index.js",
+  "repository": "https://github.com/Julianle139/MercadosCampesinos.git",
+  "author": "Julian Gallo <julianleonardogallo@gmail.com>",
+  "license": "MIT"
 }
