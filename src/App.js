@@ -5,10 +5,8 @@ import Home from '../src/components/Home'
 import { BrowserRouter, Route, Switch } from 'react-router-dom'
 import SistemaGestion from './components/SistemaGestion'
 import ListProducts from "./components/ListProducts";
-
 import Product from "./components/Product";
 import AgregarUsuario from "./components/AgregarUsuario";
-
 import AgregarVentas from "./components/AgregarVentas";
 
 
