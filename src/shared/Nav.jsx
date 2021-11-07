@@ -10,7 +10,7 @@ function Nav() {
          <div className="cont-logo"> 
             <Navbar.Brand href="/SistemaGestion">
               <img alt=""src={logo} width="30" height="30" className="d-inline-block align-top"/>{' '}
-             Stationary San Vicente
+             Mercados Campesinos
             </Navbar.Brand>
           </div>
          
