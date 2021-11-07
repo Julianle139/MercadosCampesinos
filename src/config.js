@@ -1,4 +1,12 @@
 //Ruta conexion con base de datos
 export let Path = {
-  url: "mongodb+srv://Admin:admin@cluster0.t6b1o.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  url: "https://mercadoscampesinos.herokuapp.com/api",
 };
+
+
+//const URI = process.env.MONGODB_CONNECT
+  
+//metodo conexión 1
+//mongoose.connect(process.env.MONGODB_CONNECT).then(() => {
+//  console.log("Base de datos conectada!!!");
+//});

@@ -12,7 +12,7 @@ function SellersInfo() {
   let usuarios = [
     {
       id: 1,
-      nombre: "Juan",
+      nombre: "Julian",
       apellido: "Castañeda",
       estado: ""
     },
